@@ -63,7 +63,7 @@ Here is a visual representation of how the `wishlist` feature is organized:
 <p align="center">
   <img src="design/wishlist.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
   <img src="design/user_details.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
-  <img src="design/sign_in.png.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
+  <img src="design/sign_in.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
   <img src="design/cart_screen.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
   <img src="design/product_details.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
   <img src="design/home_screen.png" alt="Home Screen" width="30%" style="margin-right: 10px;" />
